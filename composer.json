@@ -10,6 +10,9 @@
 		"irc": "irc://irc.freenode.net/codeigniter",
 		"source": "https://github.com/bcit-ci/CodeIgniter"
 	},
+	"config": {
+        "vendor-dir": "application/vendor"
+    },
 	"require": {
 		"php": ">=5.3.7"
 	},
